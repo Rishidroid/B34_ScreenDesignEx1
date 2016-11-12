@@ -10,8 +10,86 @@
     android:paddingTop="0dp"
     tools:context="com.techpalle.b34_screendesignex1.MainActivity">
 <ImageView
+    android:background="#EDE7F6"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:layout_weight="2"
     android:src="@drawable/skillGun_Image"
     android:id="@+id/ImageView1"/>
+
+    <TextView
+        android:paddingTop="15dp"
+        android:paddingLeft="30dp"
+        android:paddingBottom="15dp"
+        android:textColor="#FFF"
+        android:text="Puzzles"
+        android:background="#E65110"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
+    <TextView
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:paddingLeft="30dp"
+        android:textColor="#FFF"
+        android:text="Data Sufficiency"
+        android:background="#D50000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:paddingLeft="30dp"
+        android:textColor="#FFF"
+        android:text="Aptitude"
+        android:background="#00C853"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:paddingLeft="30dp"
+        android:textColor="#FFF"
+        android:text="IQ Test"
+        android:background="#757575"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:paddingLeft="30dp"
+        android:textColor="#FFF"
+        android:text="Arithmetic"
+        android:background="#039BE5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:paddingLeft="30dp"
+        android:textColor="#FFF"
+        android:text="Reasoning"
+        android:background="#6D4C41"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:paddingLeft="30dp"
+        android:textColor="#FFF"
+        android:text="Analytical"
+        android:background="#B71C1C"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
 </LinearLayout>
