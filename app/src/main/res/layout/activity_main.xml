@@ -12,6 +12,6 @@
 <ImageView
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:src="@drawable/SkillGun_Image"
+    android:src="@drawable/skillGun_Image"
     android:id="@+id/ImageView1"/>
 </LinearLayout>

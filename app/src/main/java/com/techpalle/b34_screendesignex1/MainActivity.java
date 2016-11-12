@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         imageView = (ImageView) findViewById(R.id.ImageView1);
-        imageView.setImageResource(R.drawable.SkillGun_Image);
+        imageView.setImageResource(R.drawable.skillGun_Image);
     }
 }
